@@ -8,6 +8,6 @@
 ## тест 4
 [КЛИК](https://htmlpreview.github.io/?https://raw.githubusercontent.com/Magneziun/DUMPS/refs/heads/main/Te%D1%81%D1%824/index.html)
 ## Тест 5
-[КЛИК](https://htmlpreview.github.io/?https://raw.githubusercontent.com/Magneziun/DUMPS/refs/heads/main/%D0%A2%D0%B5%D1%81%D1%825/index.html)
+[КЛИК](https://htmlpreview.github.io/?https://github.com/Magneziun/DUMPS/blob/main/Тест5/index.html)
 ## Кт 1
-[КЛИК](https://htmlpreview.github.io/?https://github.com/Magneziun/DUMPS/blob/main/%D0%A2%D0%B5%D1%81%D1%825/index.html)
+[КЛИК](https://htmlpreview.github.io/?https://github.com/Magneziun/DUMPS/blob/main/КТ1/index.html)
