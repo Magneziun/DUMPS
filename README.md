@@ -10,6 +10,7 @@
 ## Тест 5
 [КЛИК](https://htmlpreview.github.io/?https://github.com/Magneziun/DUMPS/blob/main/Тест5/index.html)
 ## Кт 1
+ответы там сейчас не правильные!!! не вздумайте брать их, берите их 1,2,3 тестов
 [КЛИК](https://htmlpreview.github.io/?https://github.com/Magneziun/DUMPS/blob/main/КТ1/index.html)
 # cаня:
 ![выблядок](https://github.com/Magneziun/DUMPS/blob/main/%D0%9A%D0%A21/12cbb85892d843d7a69b868fe9a5e459.jpg))
