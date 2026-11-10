@@ -16,5 +16,4 @@
 ## Тест 7_2
 [КЛИК](https://htmlpreview.github.io/?https://github.com/Magneziun/DUMPS/blob/main/Test6_2/index.html)
 ## Кт 1
-ответы там сейчас не правильные!!! не вздумайте брать их, берите их 1,2,3 тестов
-[КЛИК](https://htmlpreview.github.io/?https://github.com/Magneziun/DUMPS/blob/main/КТ1/index.html)
+кт 1 состоит из 1+2+3 тестов ввместе
